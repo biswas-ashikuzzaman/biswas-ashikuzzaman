@@ -12,7 +12,7 @@
 - 🔭 Currently working on: **JavaScript DOM & PHP-based form projects**
 - 🌱 Learning: **PHP, MySQL, Laravel, and modern JavaScript frameworks**
 - 💬 Ask me about: **JavaScript, HTML, CSS, beginner-level PHP**
-- 📫 Reach me: `your_email@example.com`
+- 📫 Reach me: `biswasashikuzzaman@gmail.com`
 - ⚡ Fun fact: I love building things that solve real-world problems.
 
 ---
@@ -45,13 +45,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:your_biswasashikuzzaman@gmail.com">
+  <a href="mailto:biswasashikuzzaman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/ashikbiswas" target="_blank">
+  <a href="https://www.linkedin.com/in/ashikuzzaman-biswas-72a79b1b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/ashik.dev.bd" target="_blank">
+  <a href="https://www.facebook.com/Biswas.Ashikuzzaman/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
@@ -67,17 +67,3 @@
 ---
 
 > ⚙️ *Open to collaboration, freelance opportunities, and tech discussions.*
-
----
-
-## 🧠 Bonus Tip:
-You can add:
-- Project showcases
-- Blog links
-- Certificates
-- Contribution graph
-- Quotes or favorite tech
-
----
-
-
