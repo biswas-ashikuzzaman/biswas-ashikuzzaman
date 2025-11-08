@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mstfarhanaakter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=biswas-ashikuzzaman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <h1 align="center">Hello, World! < Developers/ > <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
@@ -52,16 +52,16 @@
 
 Here are a few highlights from my recent work:
 
-### 🔹 [Portfolio Website](https://github.com/mstfarhanaakter/portfolio)
+### 🔹 [Portfolio Website](https://github.com/biswas-ashikuzzaman/portfolio)
 A sleek personal portfolio built with HTML, CSS, and JavaScript showcasing my skills and projects.
 
-### 🔹 [Blog CMS with Laravel](https://github.com/mstfarhanaakter/blog-cms)
+### 🔹 [Blog CMS with Laravel](https://github.com/biswas-ashikuzzaman/blog-cms)
 A full-featured content management system using Laravel and MySQL with admin dashboard and user roles.
 
-### 🔹 [Weather App](https://github.com/mstfarhanaakter/weather-app)
+### 🔹 [Weather App](https://github.com/biswas-ashikuzzaman/weather-app)
 A responsive weather application using JavaScript and OpenWeather API to display real-time data.
 
-### 🔹 [E-commerce Store](https://github.com/mstfarhanaakter/ecommerce-store)
+### 🔹 [E-commerce Store](https://github.com/biswas-ashikuzzaman/ecommerce-store)
 An online store built with React and Firebase, featuring product listings, cart functionality, and user authentication.
 
 ---
@@ -71,15 +71,15 @@ An online store built with React and Firebase, featuring product listings, cart 
 <table style="background-color: transparent; width: 100%;">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&theme=tokyonight&hide_border=true" height="280" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswas-ashikuzzaman&theme=tokyonight&hide_border=true" height="280" alt="GitHub Streak"/>
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstfarhanaakter&theme=aura" height="280" alt="Profile Summary"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswas-ashikuzzaman&theme=aura" height="280" alt="Profile Summary"/>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfarhanaakter&layout=compact&theme=tokyonight" width="100%" height="160" alt="Top Languages"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswas-ashikuzzaman&layout=compact&theme=tokyonight" width="100%" height="160" alt="Top Languages"/>
     </td>
   </tr>
 </table>
