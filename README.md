@@ -1,69 +1,90 @@
-<h1 align="center">Hi there 👋, I'm Ashikuzzaman Biswas</h1>
-<h3 align="center">Front-end Developer | PHP Learner | Tech Enthusiast from Bangladesh</h3>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mstfarhanaakter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<h1 align="center">Hello, World! < Developers/ > <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashikbiswas&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=500&size=28&pause=1000&color=F76504&width=435&lines=I'm+Farhana+%F0%9F%98%84;Web+Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="60px"/>
 
-- 🔭 Currently working on: **JavaScript DOM & PHP-based form projects**
-- 🌱 Learning: **PHP, MySQL, Laravel, and modern JavaScript frameworks**
-- 💬 Ask me about: **JavaScript, HTML, CSS, beginner-level PHP**
-- 📫 Reach me: `biswasashikuzzaman@gmail.com`
-- ⚡ Fun fact: I love building things that solve real-world problems.
+<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="50%"/>
+
+- 🌱 Currently diving deeper into modern web technologies and frameworks  
+- 💻 Passionate about crafting elegant web experiences and exploring data-driven solutions  
+- 🎯 Focused on continuous learning, clean code, and impactful design  
+- 🤝 Open to collaboration, mentorship, and exciting tech opportunities  
 
 ---
 
-### 🚀 Skills & Technologies
+## 🌐 Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px"/>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikbiswas&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashikbiswas&theme=gruvbox" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:biswasashikuzzaman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/mstfarhanaakter/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashikuzzaman-biswas-72a79b1b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/Biswas.Ashikuzzaman/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="mailto:farhanashetu.idb@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30"/>
   </a>
 </p>
 
 ---
 
-### 📌 Current Goals
+## 🛠 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"/>
 
-- Deepen knowledge of back-end development (Laravel, MySQL)
-- Build and publish open-source projects
-- Collaborate with other developers worldwide
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,github,javascript" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,py,git,wordpress,react,laravel,vuejs" />
+</div>
 
 ---
 
-> ⚙️ *Open to collaboration, freelance opportunities, and tech discussions.*
+## 🌟 Featured Projects
+
+Here are a few highlights from my recent work:
+
+### 🔹 [Portfolio Website](https://github.com/mstfarhanaakter/portfolio)
+A sleek personal portfolio built with HTML, CSS, and JavaScript showcasing my skills and projects.
+
+### 🔹 [Blog CMS with Laravel](https://github.com/mstfarhanaakter/blog-cms)
+A full-featured content management system using Laravel and MySQL with admin dashboard and user roles.
+
+### 🔹 [Weather App](https://github.com/mstfarhanaakter/weather-app)
+A responsive weather application using JavaScript and OpenWeather API to display real-time data.
+
+### 🔹 [E-commerce Store](https://github.com/mstfarhanaakter/ecommerce-store)
+An online store built with React and Firebase, featuring product listings, cart functionality, and user authentication.
+
+---
+
+## 📊 GitHub Stats
+
+<table style="background-color: transparent; width: 100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mstfarhanaakter&theme=tokyonight&hide_border=true" height="280" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mstfarhanaakter&theme=aura" height="280" alt="Profile Summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstfarhanaakter&layout=compact&theme=tokyonight" width="100%" height="160" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
