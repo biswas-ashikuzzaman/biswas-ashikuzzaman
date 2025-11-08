@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=500&size=28&pause=1000&color=F76504&width=435&lines=I'm+Farhana+%F0%9F%98%84;Web+Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=500&size=28&pause=1000&color=F76504&width=435&lines=I'm+Ashikuzzaman+%F0%9F%98%84;Web+Developer+%7C+Tech+Enthusiast+%7C+Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 ## 🌐 Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px"/>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mstfarhanaakter/">
+  <a href="https://bd.linkedin.com/in/ashikuzzaman-biswas">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30"/>
   </a>
   <a href="mailto:farhanashetu.idb@gmail.com">
